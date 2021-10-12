@@ -112,4 +112,7 @@ input[type=radio] {
         font-size: 30px;
         line-height: 48px;
     }
+    .mar-t{
+        height: 500px;
+    }
 }
