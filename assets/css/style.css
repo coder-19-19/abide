@@ -1,9 +1,6 @@
-@font-face {
-    font-family: "Trajan Pro";
-    src: url('../trajan/TrajanPro-Bold.otf')
-}
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@400;500;600&display=swap');
 body{
-    font-family: 'Trajan Pro',sans-serif;
+    font-family: 'IBM Plex Serif', serif;
     text-transform: uppercase;
 }
 p{
@@ -52,7 +49,7 @@ p{
     .center img{
         height: 420px;
         width: 96%;
-        object-fit: cover;
+        object-fit: contain;
         margin: auto;
       }
 
